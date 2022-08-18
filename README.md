@@ -30,3 +30,6 @@ Este proyecto es para aplicar lo aprendido en la certificacion "FullStack develo
 <h1>Features: </h1>
 Usa componentes Node, y una base de datos en MongoDB.
 <hr>
+<h1>Licence: </h1>
+MIT
+<hr>
