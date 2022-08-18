@@ -1,20 +1,20 @@
 # IQQBANK
 BadBank: Bank without security
 
-Project Title:
+##Project Title:
 IQQ-BANK, FullStack Version.
 
-Description/Motivation:
+##Description/Motivation:
 
 Este proyecto es para aplicar lo aprendido en la certificacion "FullStack developer: MERN", pasando por front, middle y back end.
 
-Installation Guidelines:
+##Installation Guidelines:
 
 Descargar este repositorio con git clone.
 Una vez descargado ejecutar npm install para instalar los paquetes
 Finalmente ejecuta el comando node index.js </>
 
-Screenshots:
+##Screenshots:
 
 ##Technology used:
 
@@ -22,5 +22,5 @@ Javascript, html, css.
 Node.
 MongoDB.
 
-Features:
+##Features:
 Usa componentes Node, y una base de datos en MongoDB.
