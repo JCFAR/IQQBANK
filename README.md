@@ -10,10 +10,11 @@ IQQ-BANK, FullStack Version.
 Este proyecto es para aplicar lo aprendido en la certificacion "FullStack developer: MERN", pasando por front, middle y back end.
 <hr>
 <h1>Installation Guidelines:</h1>
-
-Descargar este repositorio con git clone.
-Una vez descargado ejecutar npm install para instalar los paquetes
-Finalmente ejecuta el comando node index.js </>
+<ol>
+<li>Descargar este repositorio con git clone.</li>
+<li>Una vez descargado ejecutar npm install para instalar los paquetes</li>
+<li>Finalmente ejecuta el comando node index.js </li>
+</ol>
 <hr>
 <h1>Screenshots:</h1>
 <hr>
