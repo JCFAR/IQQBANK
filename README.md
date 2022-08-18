@@ -17,6 +17,8 @@ Este proyecto es para aplicar lo aprendido en la certificacion "FullStack develo
 </ol>
 <hr>
 <h1>Screenshots:</h1>
+<img width="949" alt="HomeIQQ" src="https://user-images.githubusercontent.com/92893596/185465948-d4a895c2-5565-4bc8-8eb6-8a2ab63cd8dc.png">
+
 <hr>
 <h1>Technology used:</h1>
 
