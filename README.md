@@ -21,10 +21,11 @@ Este proyecto es para aplicar lo aprendido en la certificacion "FullStack develo
 
 <hr>
 <h1>Technology used:</h1>
-
-Javascript, html, css.
-Node.
-MongoDB.
+<ol>
+<li type="circle">Javascript, html, css.</li>
+<li type="circle">Node.</li>
+<li type="circle">MongoDB.</li>
+</ol>
 <hr>
 <h1>Features: </h1>
 Usa componentes Node, y una base de datos en MongoDB.
