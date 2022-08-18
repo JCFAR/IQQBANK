@@ -1,8 +1,10 @@
 # IQQBANK
 BadBank: Bank without security
 
-<em> #Proyect title </em>:
+<h1>Proyect title : </h1>
+
 IQQ-BANK, FullStack Version.
+<hr>
 
 ##Description/Motivation:
 
