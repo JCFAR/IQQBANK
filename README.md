@@ -1,7 +1,8 @@
 <h1> IQQ Bank</h1>
 <h3>Bank without security</h3>
 
-
+<h1> Description/Motivation</h1>
+<p>This project is to apply what was learned in the full stack developer certification with MERN</p>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
