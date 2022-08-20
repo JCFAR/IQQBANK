@@ -1,8 +1,23 @@
-<h1> IQQ Bank</h1>
+<h2> IQQ Bank</h2>
 <h3>Bank without security</h3>
 
-<h1> Description/Motivation</h1>
+<h2> Description/Motivation</h2>
 <p>This project is to apply what was learned in the full stack developer certification with MERN</p>
+<h2>Screenshots</h2>
+
+<img width="949" alt="HomeIQQ" src="https://user-images.githubusercontent.com/92893596/185748349-f36c4416-7b90-4cfc-89c5-49d8502651e8.png">
+<h2>Technology used</h2>
+<ol>
+<li type="circle">Javascript</li>
+<li type="circle">Html</li>
+<li type="circle">Css</li>
+<li type="circle">Node</li>
+<li type="circle">MongoDb</li>  
+</ol>
+<h2>Features</h2>
+<p>Use node components and a mongoDb database</p>
+
+<br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
